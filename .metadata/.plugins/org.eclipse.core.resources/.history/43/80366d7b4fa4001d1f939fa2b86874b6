@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<form action="save">
+Name<input name="name" type="text"> <br>
+Mobile Number<input name="mob" type="number"> <br>
+Date of Birth<input name="dob" type="date"> <br>
+Address<textarea name="ads" rows="10" cols="30"></textarea><br>
+<select name="contry">
+<option value="INDIA">INDIA</option>
+<option value="BAN">BAN</option>
+<option value="PAK">PAK</option>
+</select><br>
+<input name="gen" type="radio" value="Male">Male
+<input name="gen" type="radio" value="Female">Female <br>
+<input type="checkbox" name="hobies" value="Cricket">Cricket 
+<input type="checkbox" name="hobies" value="Netflix">Netflix 
+<input type="checkbox" name="hobies" value="Chess">Chess <br>
+
+
+<input type="reset">
+<button>save</button>
+
+
+</form>
+
+</body>
+</html>

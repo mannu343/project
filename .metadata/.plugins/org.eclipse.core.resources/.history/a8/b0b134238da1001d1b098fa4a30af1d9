@@ -1,0 +1,14 @@
+package DTO;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.Id;
+
+@Entity(name="student")
+public class StudentTable {
+	@Id
+	private int s_mob;
+	@Column (nullable = false)
+	private String s_name;
+
+}

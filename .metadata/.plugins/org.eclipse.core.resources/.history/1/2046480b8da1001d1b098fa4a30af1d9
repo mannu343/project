@@ -1,0 +1,8 @@
+package DTO;
+
+import javax.persistence.Entity;
+
+@Entity(name="student")
+public class StudentTable {
+
+}

@@ -1,0 +1,8 @@
+127.0.0.1 - - [04/Feb/2023:11:24:30 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [04/Feb/2023:11:24:33 +0530] "GET /student/ HTTP/1.1" 200 229
+0:0:0:0:0:0:0:1 - - [04/Feb/2023:11:24:33 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [04/Feb/2023:11:24:36 +0530] "GET /student/student.html HTTP/1.1" 200 857
+0:0:0:0:0:0:0:1 - - [04/Feb/2023:11:24:48 +0530] "GET /student/save?name=dlkkfh&mob=8254&dob=&ads=&contry=INDIA HTTP/1.1" 500 1131
+0:0:0:0:0:0:0:1 - - [04/Feb/2023:11:25:13 +0530] "GET /student/save?name=dlkkfh&mob=8254&dob=5845-07-25&ads=faf&contry=INDIA&gen=Male&hobies=Cricket&hobies=Netflix&hobies=Chess HTTP/1.1" 200 18
+127.0.0.1 - - [04/Feb/2023:11:27:23 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [04/Feb/2023:11:27:24 +0530] "GET /student/Home.html HTTP/1.1" 200 233

@@ -1,0 +1,23 @@
+package DTO;
+
+import java.sql.Date;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.Id;
+
+@Entity(name="student")
+public class StudentTable {
+	@Id
+	private long s_mob;
+	@Column (nullable = false)
+	private String s_name;
+	private Date s_dob;
+	
+	private String s_adress;
+	private String s_Contry;
+	private String s_gender;
+	private String s_hobies;
+	
+
+}

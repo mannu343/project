@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Home</title>
+</head>
+<body>
+<h1>Student </h1>
+<a href="student.html"> <button>Add  </button> </a>
+<div margin-right: 4px; ></div>
+<a href=""> <button>Fetch  </button> </a>
+
+</body>
+</html>

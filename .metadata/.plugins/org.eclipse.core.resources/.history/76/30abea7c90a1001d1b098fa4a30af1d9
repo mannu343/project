@@ -1,0 +1,13 @@
+package DAO;
+
+public class AccessTheobject {
+	
+	public String hob (String[] s)
+	{
+		String s="";
+		
+		return null;
+		
+	}
+
+}

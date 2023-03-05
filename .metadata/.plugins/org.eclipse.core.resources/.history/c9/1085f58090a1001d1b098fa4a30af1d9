@@ -1,0 +1,22 @@
+package DAO;
+
+public class AccessTheobject {
+	
+	public String hob (String[] s)
+	{
+		String str="";
+		
+		for (int i = 0; i < s.length; i++) {
+			if(i<s.length-1)
+			str=str+s[i]+" " ;
+			
+			else
+				str=str+s[i]
+			
+		}
+		
+		return null;
+		
+	}
+
+}

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<form action="">
+<input name="name" type="text">Name <br>
+<input name="mob" type="number">Mobile Number <br>
+<input name="dob" type="date">Date of Birth <br>
+<textarea name="ads" rows="10" cols="30">Address</textarea>
+<select name="Contry">
+<option value="India">India</option>
+
+</select>
+
+
+
+</form>
+
+</body>
+</html>
